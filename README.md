@@ -23,7 +23,9 @@ I'm passionate about building intelligent systems that act autonomously.
 
 ---
 ### 🛠 Tech Stack
+
 **Languages**
+
 <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,html,css,bash" />
 
 **Frameworks & Libraries**
