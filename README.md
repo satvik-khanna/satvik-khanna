@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Satvik 👋
 
-<!--
-**satvik-khanna/satvik-khanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Agentic AI & LLM Systems  ·  CS @ UC Santa Cruz  ·  OPT available June 2026**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/satvik-khanna-0a8902304/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:satvikkhanna04@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🙋 About Me
+
+- 🌍 Based in Santa Cruz, CA
+- 🎓 BS Computer Science @ UC Santa Cruz (graduating June 2026)
+- 💼 Previously at Nutanix · Involve.AI · Jeeva.ai · Metso Outotec
+- 🔬 AI Researcher @ UCSC AIEA Lab (RL with CARLA)
+- 🔭 Building autonomous agentic systems and LLM pipelines
+- 🌱 Currently exploring system design & distributed systems
+- 📫 satvikkhanna04@gmail.com
+- ⚡ Fun fact: I automate everything I do more than twice
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+
+
+
+**Frameworks & Libraries**
+
+
+
+**Databases & Cloud**
+
+
+
+**Tools**
+
+
+
+---
+
+### 🚀 Featured Projects
+
+_pinned below_
