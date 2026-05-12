@@ -24,19 +24,19 @@
 
 **Languages**
 
-
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java,html,css,bash" />
 
 **Frameworks & Libraries**
 
-
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,pytorch,tensorflow,expo" />
 
 **Databases & Cloud**
 
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws" />
 
 **Tools**
 
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,grafana" />
 
 ---
 
