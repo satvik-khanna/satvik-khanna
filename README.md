@@ -17,7 +17,7 @@ I'm passionate about building intelligent systems that act autonomously.
 - 🔬 AI Researcher @ UCSC AIEA Lab under Prof. Leilani Gilpin
 - 🏆 Undergraduate Dean's Award ($7,500/year)
 - ⚡ Languages I'm fluent with: Python, C/C++, JavaScript, TypeScript
-- 📫 satvikkhanna04@gmail.com
+- 📫 sakhanna@ucsc.edu, satvikkhanna04@gmail.com
 - 😄 Fun fact: I automate everything I do more than twice
 
 
